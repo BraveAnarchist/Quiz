@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+.quiz {
+  max-width: 600px;
+  margin: auto;
+}
+
+.score-section {
+  font-size: 24px;
+  margin-top: 20px;
+}
+.question-section {
+  margin-bottom: 20px;
+}
+
+.question-text {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.answer-section button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: none;
+  background-color: #f0f0f0;
+  cursor: pointer;
+}
+
+.answer-section button:hover {
+  background-color: #ddd;
+}
